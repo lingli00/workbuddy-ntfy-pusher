@@ -1,0 +1,11 @@
+# PyInstaller 产物
+build/
+dist/
+__pycache__/
+*.spec.bak
+
+# 运行时生成的个人配置（由 exe 自动创建）
+config.json
+
+# 发布用的临时包
+dist_rel/

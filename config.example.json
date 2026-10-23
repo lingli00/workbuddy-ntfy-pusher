@@ -1,0 +1,10 @@
+{
+  "ntfy_urls": [],
+  "watch_dir": "C:\\Users\\<你的用户名>\\.workbuddy\\projects",
+  "interval": 1.0,
+  "max_len": 300,
+  "min_len": 4,
+  "push_tool_calls": false,
+  "title": "WorkBuddy 进度",
+  "tags": "robot,workbuddy"
+}
